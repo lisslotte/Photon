@@ -86,6 +86,7 @@
     <Compile Include="Assets\_Script\Launcher.cs" />
     <Compile Include="Assets\_Script\MapData.cs" />
     <Compile Include="Assets\_Script\NetworkManager.cs" />
+    <Compile Include="Assets\_Script\NewBehaviourScript.cs" />
     <Compile Include="Assets\_Script\Player.cs" />
     <Compile Include="Assets\_Script\PlayerCell.cs" />
     <Compile Include="Assets\_Script\PlayerName.cs" />
